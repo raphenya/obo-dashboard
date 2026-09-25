@@ -29,7 +29,7 @@ ontologies:
   - HMDM
   - HMDMALT
   changed: true
-  date: 2026-09-25 18:41:29.901016
+  date: 2026-09-25 20:09:17.337277
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1023
@@ -38,7 +38,7 @@ ontologies:
       SubClassOf: 507
     'Axioms: Number of axioms': 1739
     'Entities: % of entities reused': 100.0
-    'Entities: Number of annotation properties': 16
+    'Entities: Number of annotation properties': 17
     'Entities: Number of classes': 244
     'Entities: Number of data properties': 0
     'Entities: Number of individuals': 0
@@ -120,7 +120,7 @@ ontologies:
         INFO: 1
         WARN: 205
       status: WARN
-  sha256_hash: e4dfcfc500f199bc0b333ae502fc0f864900f9fff47ab05154ec70449129782c
+  sha256_hash: 1084b1df0a42d481e6c6e92990239f6dc33ebaefe3b3dc98265f5ad16d9818b2
   summary:
     comment: 7 errors
     status: ERROR
