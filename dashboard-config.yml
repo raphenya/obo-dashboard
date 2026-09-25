@@ -31,7 +31,7 @@ obo_score_weights:
 ontologies:
   custom:
     - id: hmdm
-      mirror_from: "https://raw.githubusercontent.com/monarch-ebi-dev/robot_tests/master/custom-dashboard.owl"
+      mirror_from: "https://raw.githubusercontent.com/raphenya/hmdm-ontology/main/hmdm.owl"
 prefer_base: True
 profile:
   baseprofile: "https://raw.githubusercontent.com/ontodev/robot/master/robot-core/src/main/resources/report_profile.txt"
