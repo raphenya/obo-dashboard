@@ -3,7 +3,7 @@ base_prefixes:
 - HMDM
 - HMDMALT
 changed: true
-date: 2026-09-27 00:53:42.897965
+date: 2026-09-27 21:36:52.166822
 metrics:
   'Axioms: Breakdown of axiom types':
     AnnotationAssertion: 1023
@@ -94,7 +94,7 @@ results:
       INFO: 1
       WARN: 205
     status: WARN
-sha256_hash: 1084b1df0a42d481e6c6e92990239f6dc33ebaefe3b3dc98265f5ad16d9818b2
+sha256_hash: 6c09963739dab04b04853953c3f7a0a97a84c40889769a90e2b6347d1036862a
 summary:
   comment: 7 errors
   status: ERROR
@@ -102,4 +102,4 @@ summary:
     ERROR: 7
     INFO: 1
     WARN: 1
-version: http://purl.obolibrary.org/obo/hmdm/releases/2026-09-25/hmdm.owl
+version: http://purl.obolibrary.org/obo/hmdm/releases/2026-09-27/hmdm.owl
