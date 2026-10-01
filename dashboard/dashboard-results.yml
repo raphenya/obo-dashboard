@@ -29,7 +29,7 @@ ontologies:
   - HMDM
   - HMDMALT
   changed: true
-  date: 2026-09-27 21:42:07.825044
+  date: 2026-10-01 11:51:20.398386
   metrics:
     'Axioms: Breakdown of axiom types':
       AnnotationAssertion: 1023
